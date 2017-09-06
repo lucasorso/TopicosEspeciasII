@@ -8,9 +8,16 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Aniversário</title>
+    <title>Início</title>
 </head>
 <body>
-
+<div align="center">
+    <button>
+        <a href="formulario.html">Academia</a>
+    </button>
+    <button>
+        <a href="mes_aniversario.html">Mês Aniversário</a>
+    </button>
+</div>
 </body>
 </html>

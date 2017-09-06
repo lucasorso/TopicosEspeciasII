@@ -10,6 +10,7 @@
   <code class="java">
 <html>
     <head>
+        <meta charset="UTF-8">
         <title>Aniversário</title>
     </head>
     <body>

@@ -10,6 +10,7 @@
   <code class="java">
 <html>
     <head>
+        <meta charset="UTF-8">
         <title>Academia Boa Forma</title>
     </head>
     <body>
@@ -18,11 +19,10 @@
 		Academia Boa Forma </font></p>
         <br><br><br>
         <p align="center"><font size="18" color="blue">
-		Seu IMC é 41.25 </font></p>
+		Seu IMC é ${imc}</font></p>
         <br><br><br>
-        <p align="center">Segundo a classificação
-        da organização mundial da saúde você está
-        <font size="18" color="red"> com obesidade mórbida.</font> </p>
+        <p align="center">Segundo a classificação da organização mundial da saúde você está
+        <font size="18" color=${cor}> ${desc}.</font> </p>
     </body>
 </html>
 </code>
